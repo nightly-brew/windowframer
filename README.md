@@ -10,7 +10,7 @@ Currently only one frame type is implemented, though additional types can be imp
 Each frame type has its own settings, use --help after specifying the type to list all available options.
 
 ## installation
-windowframer depends on python3 and the [pycairo library].
+windowframer depends on python3 and the [pycairo library].   
 After installing the dependencies, clone the repo and make the "windowframer.py" script executable.
 
 ## usage
