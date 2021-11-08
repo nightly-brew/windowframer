@@ -3,9 +3,9 @@ windowframer is a python utility that takes care of drawing border images compat
 
 Currently only one frame type is implemented, though additional types can be implemented easily.
 
-| frame type | produces                                                                 |
-|------------|--------------------------------------------------------------------------|
-| rounded    | - square corners   <br>- round corners   <br>- rounded square corners    |
+| frame type | produces                                                                 | supports shadow | window status indicator    |
+|------------|--------------------------------------------------------------------------|-----------------|----------------------------|
+| rounded    | - square corners   <br>- round corners   <br>- rounded square corners    | yes             | line all around the border |
 
 Each frame type has its own settings, use --help after specifying the type to list all available options.
 
